@@ -6,3 +6,4 @@ Having fun with git.
 
 - coding
 - developing
+- planning
