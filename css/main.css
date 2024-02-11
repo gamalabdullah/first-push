@@ -3,7 +3,12 @@ body {
 }
 
 .appointment-form {
+    display: none;
     width: 100%;
+}
+
+.appointment-form.show {
+    display: block;
 }
 
 .appointment-form input {
