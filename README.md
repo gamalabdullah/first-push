@@ -7,3 +7,5 @@ Having fun with git.
 - coding
 - developing
 - planning
+
+Day 2 of this that I dont know of
