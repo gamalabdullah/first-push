@@ -1,1 +1,2 @@
-console.log('You can see me');
+console.log('Hello there');
+console.log('Logging for fun');
