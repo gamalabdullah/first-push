@@ -11,6 +11,13 @@ body {
     display: block;
 }
 
-.appointment-form input {
+.appointment-form input[type=text] {
     outline: none;
+}
+
+.appointment-form input[type=submit] {
+    outline: none;
+    border: 2px solid #eee;
+    max-width: 100px;
+    text-decoration: none;
 }
