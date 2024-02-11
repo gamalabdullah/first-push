@@ -2,6 +2,19 @@ body {
     background-color: #eee;
 }
 
+.portfolio-gallery {
+    display: none;
+}
+
+.portfolio-gallery.show {
+    display: block;
+}
+
+.portfolio-gallery a {
+    color: #333;
+    text-decoration: none;
+    cursor: pointer;
+}
 .appointment-form {
     display: none;
     width: 100%;
