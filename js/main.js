@@ -1,2 +1,6 @@
-console.log('Hello there');
-console.log('Logging for fun');
+let appointmentForm = document.querySelector('.appointment-form');
+
+if (appointmentForm) {
+  console.log('Welcome to the Appointment page');
+  appointmentForm.classList.add('show');
+}
