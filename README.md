@@ -9,3 +9,5 @@ Having fun with git.
 - planning
 
 Day 2 of this that I dont know of
+
+- Still figuring out
