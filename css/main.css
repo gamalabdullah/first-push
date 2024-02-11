@@ -3,6 +3,7 @@ body {
 }
 
 .portfolio-gallery {
+    width: 100%;
     display: none;
 }
 
