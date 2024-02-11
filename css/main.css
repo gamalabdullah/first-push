@@ -2,6 +2,14 @@ body {
     background-color: #eee;
 }
 
+.slider {
+    width: 100%;
+}
+
+.slider .slider-each {
+    width: 100%;
+}
+
 .portfolio-gallery {
     width: 100%;
     display: none;
@@ -16,6 +24,7 @@ body {
     text-decoration: none;
     cursor: pointer;
 }
+
 .appointment-form {
     display: none;
     width: 100%;
